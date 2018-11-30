@@ -72,7 +72,8 @@
 
                     android:scaleType="fitCenter"
                     android:visibility="invisible"
-                    app:srcCompat="@drawable/mole" />
+                    app:srcCompat="@drawable/mole"
+                    style="@android:style/Widget.Holo.Light.ImageButton"/>
 
                 <ImageButton
                     android:id="@+id/mol12"
@@ -81,7 +82,8 @@
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
                     android:visibility="invisible"
-                    app:srcCompat="@drawable/mole" />
+                    app:srcCompat="@drawable/mole"
+                    style="@android:style/Widget.Holo.Light.ImageButton"/>
 
                 <ImageButton
                     android:id="@+id/mol13"
@@ -90,7 +92,8 @@
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
                     android:visibility="invisible"
-                    app:srcCompat="@drawable/mole" />
+                    app:srcCompat="@drawable/mole"
+                    style="@android:style/Widget.Holo.Light.ImageButton"/>
             </LinearLayout>
 
             <LinearLayout
@@ -106,7 +109,8 @@
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
                     android:visibility="invisible"
-                    app:srcCompat="@drawable/mole" />
+                    app:srcCompat="@drawable/mole"
+                    style="@android:style/Widget.Holo.Light.ImageButton"/>
 
                 <ImageButton
                     android:id="@+id/mol15"
@@ -115,7 +119,8 @@
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
                     android:visibility="invisible"
-                    app:srcCompat="@drawable/mole" />
+                    app:srcCompat="@drawable/mole"
+                    style="@android:style/Widget.Holo.Light.ImageButton"/>
 
                 <ImageButton
                     android:id="@+id/mol16"
@@ -124,7 +129,8 @@
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
                     android:visibility="invisible"
-                    app:srcCompat="@drawable/mole" />
+                    app:srcCompat="@drawable/mole"
+                    style="@android:style/Widget.Holo.Light.ImageButton"/>
             </LinearLayout>
 
         </LinearLayout>
